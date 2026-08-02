@@ -5,13 +5,17 @@
 
 <div align="center">
 
-<!-- Animated Header -->
+<div align="center">
 
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&height=270&color=0:020617,25:111827,50:312E81,75:4F46E5,100:06B6D4&text=SADIB%20DEWAN&fontSize=54&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=Software%20Engineering%20Student%20%7C%20AI%20%26%20Full-Stack%20Builder&descAlignY=57&descSize=18"
-  alt="Sadib Dewan Header"
+  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=260&section=header&text=SADIB%20DEWAN&fontSize=52&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=Software%20Engineering%20Student%20%7C%20AI%20and%20Full-Stack%20Builder&descAlignY=57&descSize=18"
+  alt="Sadib Dewan"
 />
+
+</div>
+
+
 
 <!-- Animated Typing Text -->
 
