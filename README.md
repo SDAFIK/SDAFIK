@@ -1,53 +1,52 @@
+<!-- =========================
+     PREMIUM PROFILE HEADER
+========================= -->
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,50:4F46E5,100:06B6D4&text=SADIB%20DEWAN&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Software%20Engineering%20Student%20%7C%20AI%20%26%20Full-Stack%20Enthusiast&descAlignY=58&descSize=17"/>
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:020617,30:312E81,65:4F46E5,100:06B6D4&text=SADIB%20DEWAN&fontSize=52&fontColor=FFFFFF&fontAlignY=37&animation=fadeIn&desc=Software%20Engineering%20Student%20%7C%20AI%20%26%20Full-Stack%20Builder&descAlignY=57&descSize=18"
+/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=22D3EE&center=true&vCenter=true&width=750&lines=Building+Software+That+Solves+Real+Problems;Exploring+AI+and+Full-Stack+Development;Turning+Ideas+Into+Working+Applications;Learning%2C+Building+and+Improving+Every+Day" />
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&repeat=true&width=850&height=55&lines=Building+Software+That+Solves+Real+Problems;Exploring+Artificial+Intelligence+and+Full-Stack;Turning+Ideas+Into+Working+Applications;Learning+%7C+Building+%7C+Improving+Every+Day"
+  alt="Typing Animation"
+/>
+
+<br/>
+
+<a href="https://github.com/SDAFIK">
+  <img src="https://img.shields.io/badge/Software%20Engineering-Student-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=0F172A"/>
+</a>
+
+<a href="https://github.com/SDAFIK?tab=repositories">
+  <img src="https://img.shields.io/badge/Building-Real%20Projects-06B6D4?style=for-the-badge&logo=code&logoColor=white&labelColor=0F172A"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=SDAFIK&label=PROFILE%20VIEWS&color=4F46E5&style=for-the-badge&labelColor=0F172A"/>
 
 </div>
 
+---
+
+<!-- =========================
+     ABOUT ME
+========================= -->
+
 ## 👨‍💻 About Me
 
-I am **Sadib Dewan**, a Software Engineering student passionate about building practical, intelligent and user-focused software.
+```yaml
+name: Sadib Dewan
+role: Software Engineering Student
+location: Bangladesh
 
-- 🎓 Software Engineering Student
-- 🤖 Exploring Artificial Intelligence and Machine Learning
-- 🌐 Learning Full-Stack Web Development
-- 🗄️ Building Database Management Systems
-- 💻 Working with C, Python, JavaScript and SQL
-- 🎨 Interested in modern UI/UX and futuristic interfaces
-- 🚀 Turning ideas into functional software projects
+interests:
+  - Artificial Intelligence
+  - Full-Stack Development
+  - Software Engineering
+  - Database Management
+  - UI/UX Design
+  - Problem Solving
 
----
-
-## 🛠️ Tech Stack
-
-### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=c,python,javascript,html,css,mysql" />
-</p>
-
-### Tools and Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
-</p>
-
-### Currently Learning
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,flask,fastapi" />
-</p>
-
----
-
-## 🚀 What I Build
-
-```text
-🤖 AI-powered applications
-🌐 Modern web applications
-💻 C programming projects
-🗄️ Database management systems
-🎨 Clean and user-friendly interfaces
-🧩 Real-world software solutions
+mission: Build useful, intelligent and user-focused software
